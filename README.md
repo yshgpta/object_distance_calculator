@@ -12,11 +12,11 @@ For this we take a reference object whose width is predefined. With this knowled
 
 ## Usage
 <ul>
-<li>`pip install requirements.txt`</li>
-<li>Create two folders `Frames` and `Processed` for storing frames of your video in source directory.</li>
-<li>Add your video to source directory.</li>
-<li>Change the width/frame rate of your reference object.</li>
-<li>`python3 distance_calculation.py`
+<li> `pip install requirements.txt` </li>
+<li> Create two folders `Frames` and `Processed` for storing frames of your video in source directory. </li>
+<li> Add your video to source directory. </li>
+<li> Change the width/frame rate of your reference object. </li>
+<li> `python3 distance_calculation.py`
 </ul>
 
 ###### Here is one of processed video
